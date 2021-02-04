@@ -1,0 +1,23 @@
+body {
+    background-color:#000;
+}
+
+#header {
+    background-color:#2A607C;
+    color:white;
+    width: 70%;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+    vertical-align:middle;
+}
+
+#header-buttons {
+    text-align:center;
+    color:white;
+    background-color:skyblue;
+    float:left;
+    width: 25%;
+    height: 100px;
+    vertical-align:middle;
+}
