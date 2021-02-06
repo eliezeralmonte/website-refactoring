@@ -14,14 +14,14 @@ We've also been able to add the readable text within images **using the 'alt' at
 
 ### Elements:
 
-* Body: 
+* **Body**: 
 We've been able to identify opportunities within our **body container** of our html file structure to edit and modify some div elements and change them to a more appropriate semantic reference.
 
-**Header**: Starting with our header, our header contains a navigation menu of 3 line items that lead the user to their desired directory within the website, this div was changed to 'header'.
+* **Header**: Starting with our header, our header contains a navigation menu of 3 line items that lead the user to their desired directory within the website, this div was changed to 'header'.
 
-**Main and Aside**: Within our body we also have 2 other divs including broader information on the services Horiseon offers, one containing the main content, we've changed this div to 'main', and a side div positioned to the right which we've renamed to 'aside'.
+* **Main and Aside**: Within our body we also have 2 other divs including broader information on the services Horiseon offers, one containing the main content, we've changed this div to 'main', and a side div positioned to the right which we've renamed to 'aside'.
 
-**Footer**: And finally our footer, we've renamed the div container at the end of our body to 'footer'.  
+* **Footer**: And finally our footer, we've renamed the div container at the end of our body to 'footer'.  
 
 ### Concision:
 
