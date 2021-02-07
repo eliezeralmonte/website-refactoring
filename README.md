@@ -33,7 +33,7 @@ We've been able to identify opportunities within our **body container** of our h
 ### Collaborators:
 
 * Eli Almonte [Github](https://github.com/exention)
-* Joliza Mateo [Github]()
+* Joliza Mateo [Github](https://github.com/jolizaro)
 
 * [Github Pages Link](https://exention.github.io/website-refactoring/)
 
