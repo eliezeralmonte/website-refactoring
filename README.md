@@ -28,14 +28,16 @@ We've been able to identify opportunities within our **body container** of our h
 1. We were able to identify opportunities in which there were unnecessary unexisting ids within our linked CCS file being used for some of the elements within our body, we have removed these ids from the containers.
 2. We were also able to refactor some of the classes within our CSS file being able to maintain same functionality and reducing the amount of unnecessary classes.
 
+## Live Link:
+
+* [Github Pages Link](https://exention.github.io/website-refactoring/)
+
 ## Credits:
 
 ### Collaborators:
 
 * Eli Almonte [Github](https://github.com/exention)
 * Joliza Mateo [Github](https://github.com/jolizaro)
-
-* [Github Pages Link](https://exention.github.io/website-refactoring/)
 
 ## License
 
